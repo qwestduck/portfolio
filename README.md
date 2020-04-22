@@ -16,6 +16,7 @@ A project to specify system environment requirements for OpenCL on NVidia hardwa
 
 A series of programs developed under the constraints of a programming competition or interview. These problems are presented via a well-defined specification and it is expected to present a correct implementation no more than 30 minutes after reading the specification.
 - [Telegram Problem](https://github.com/qwestduck/rapidfire-telegram)
+- [String Reversal](https://github.com/qwestduck/rapidfire-string-reversal)
 
 ## Publications
 - Panlener, William, David M. Krum, and J. Adam Jones. "Effects of Horizontal Field of View Extension on Spatial Judgments in Virtual Reality." *2019 SoutheastCon*. IEEE, 2019.
