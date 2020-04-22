@@ -12,6 +12,11 @@ A project to specify system environment requirements for OpenCL on NVidia hardwa
 - Documents the packages required to set up an appropriate OpenCL environment on Debian 10.
 - Documents relevant Nvidia quirks.
 
+## Rapidfire Programs
+
+A series of programs developed under the constraints of a programming competition or interview. These problems are presented via a well-defined specification and it is expected to present a correct implementation no more than 30 minutes after reading the specification.
+- [Telegram Problem](https://github.com/qwestduck/rapidfire-telegram)
+
 ## Publications
 - Panlener, William, David M. Krum, and J. Adam Jones. "Effects of Horizontal Field of View Extension on Spatial Judgments in Virtual Reality." *2019 SoutheastCon*. IEEE, 2019.
 - Choo, Kyoshin, William Panlener, and Byunghyun Jang. "Understanding and optimizing GPU cache memory performance for compute workloads." *2014 IEEE 13th International Symposium on Parallel and Distributed Computing*. IEEE, 2014.
