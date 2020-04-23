@@ -18,6 +18,11 @@ A series of programs developed under the constraints of a programming competitio
 - [Telegram Problem](https://github.com/qwestduck/rapidfire-telegram)
 - [String Reversal](https://github.com/qwestduck/rapidfire-string-reversal)
 
+## Personal Projects
+
+Miscellaneous projects developed and maintained for my personal use.
+- [python3-blizzard-parse](https://github.com/qwestduck/python3-blizzard-parse)
+
 ## Publications
 - Panlener, William, David M. Krum, and J. Adam Jones. "Effects of Horizontal Field of View Extension on Spatial Judgments in Virtual Reality." *2019 SoutheastCon*. IEEE, 2019.
 - Choo, Kyoshin, William Panlener, and Byunghyun Jang. "Understanding and optimizing GPU cache memory performance for compute workloads." *2014 IEEE 13th International Symposium on Parallel and Distributed Computing*. IEEE, 2014.
